@@ -1,17 +1,14 @@
-### Hi everyone 👋
+<h1 align="center">Hi everyone 👋 </h1>
 
-#### My name is Vincent, I am a 19 years old student learning web developpement at Epitech Digital ! 
-
-[![My Website](https://raw.githubusercontent.com/Nakatox/<OWNER>/<OWNER>/readme_header.png "Header")](https://vincent-loron.com)/)
-
+<h3 align="center">My name is Vincent, I am a 19 years old student learning web developpement at Epitech Digital ! </3>
 
 <br />
 
-### What do i use for coding 
+<h2 align="center">What do i use for coding </h2>
 
 <br />
 
-<p align="">
+<p align="center">
 <img src="https://user-images.githubusercontent.com/59575502/127426759-a687aa90-d647-46c9-86f7-c8e948f8095e.png" alt="python" width="35" height="35" />
 <img src="https://user-images.githubusercontent.com/59575502/127426309-0b2bbd98-9756-4798-ad10-f60da4a4d5fb.png" alt="html5" width="35" height="35" />
 <img src="https://user-images.githubusercontent.com/59575502/127426315-abe01b56-a385-455d-9caf-40bc7022a3d3.png" alt="css3" width="35" height="35" />
@@ -24,15 +21,20 @@
 <img src="https://user-images.githubusercontent.com/59575502/127427980-4b5ba4cf-daee-474f-a500-872181ccc470.png" alt="vscode" width="35" height="35" />
 <img src="https://user-images.githubusercontent.com/59575502/127427342-0ff4c732-b5dd-4f67-b4d3-e6cc3d9d7f72.png" alt="android" width="35" height="35" />
 </p>
+<br />
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nakatox&layout=compact&show_icons=true&theme=dracula" />
+</p>
+<h2 align="center">Here is some of my project</h2>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nakatox&layout=compact&show_icons=true&theme=dracula)](https://github.com/nakatox/github-readme-stats)
-
-### Here is some of my project
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nakatox&repo=django-habits&show_icons=true&theme=dracula)](https://github.com/nakatox/django-habits)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nakatox&repo=front-neocial&show_icons=true&theme=dracula)](https://github.com/nakatox/front-neocial)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nakatox&repo=server-node-neocial&show_icons=true&theme=dracula)](https://github.com/nakatox/server-node-neocial)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nakatox&repo=wallpaper-creator&show_icons=true&theme=dracula)](https://github.com/nakatox/wallpaper-creator)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nakatox&repo=tutube-ultime&show_icons=true&theme=dracula)](https://github.com/nakatox/tutube-ultime)
+
+
+<a tex-align="center" href="https://vincent-loron.com">Go check myWebsite !</a>
 
 <!--
 **Nakatox/Nakatox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
