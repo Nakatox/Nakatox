@@ -1,10 +1,10 @@
 ### Hi everyone 👋
-[![Header](https://raw.githubusercontent.com/Nakatox/<OWNER>/<OWNER>/readme_header.png "Header")](https://vincent-loron)/)
 
 #### My name is Vincent, I am a 19 years old student learning web develeppement at Epitech Digital ! 
-#### 
+
+[![My Website](https://raw.githubusercontent.com/Nakatox/<OWNER>/<OWNER>/readme_header.png "Header")](https://vincent-loron.com)/)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nakatox&layout=compact&show_icons=true&theme=radical)](https://github.com/nakatox/github-readme-stats)
-![Nakatox's GitHub stats](https://github-readme-stats.vercel.app/api?username=nakatox&&show_icons=true&theme=radicalhide=contribs,prs)
 
 <!--
 **Nakatox/Nakatox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
